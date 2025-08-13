@@ -1,4 +1,4 @@
-# Vocabulary Builder - Simple Python Project for Beginners
+# Vocabulary Builder
 
 Welcome to your first Python project! This is a simple command-line application that helps you learn basic Python programming concepts.
 
@@ -156,4 +156,5 @@ python -m vocab_builder
 ---
 
 *Need help? Look at the TODO comments in each file - they tell you exactly what to do!*
+
 
